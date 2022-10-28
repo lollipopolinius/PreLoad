@@ -1,0 +1,3 @@
+local addonName, namespace = ...
+local preload = CreateFrame("Frame")
+print("frame created")
